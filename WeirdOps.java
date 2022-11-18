@@ -39,7 +39,8 @@ public class WeirdOps {
   	System.out.println("9. x = " + x
              	           + "   y = " + y);
  	// Part 3 code goes here
-
+    //final int C = 28;
+     
     
          
    } // end main
